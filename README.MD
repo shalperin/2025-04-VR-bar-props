@@ -1,6 +1,6 @@
 # VR Bar Props
 [![VR Bar Props](https://img.youtube.com/vi/f_gSnSFXmPM/0.jpg)](https://www.youtube.com/watch?v=f_gSnSFXmPM)
-![](https://www.youtube.com/watch?v=E1R8Cscqe-A)
+![](https://www.youtube.com/watch?v=f_gSnSFXmPM)
 
 ## Assumptions: 
 1) Unity 6
@@ -19,3 +19,7 @@ The two prefabs you are interested in are:
 and
 
 ```dependencies/Beer Prop/Prefabs/keg.prefab```
+
+
+[![VR Bar Props](https://img.youtube.com/vi/E1R8Cscqe-A/0.jpg)](https://www.youtube.com/watch?v=E1R8Cscqe-A)
+![](https://www.youtube.com/watch?v=E1R8Cscqe-A)
